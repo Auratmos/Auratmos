@@ -1,8 +1,1 @@
-hi\
-there
-
-can\
-i\
-help\
-you\
-?
+yes
